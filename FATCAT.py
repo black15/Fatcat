@@ -445,7 +445,7 @@ def main():
 ''' + color.end )
 			print("\033[31m---------------------------------\033[0m"+ color.white + "USEAGE"+"\033[31m-----------------------------------------\033[0m")
 			print(color.green + " \t \t \t EXAMPLE : " + color.end)
-			print(color.green + " \t \t \t \t google.com" + color.end )
+			print(color.green + " \t \t \t \t 192.168.1.32/27" + color.end )
 			print( color.red + "-"*80 + color.end )
 			input_subnetlookup = input( color.white + "[*] Enter cidr or ip with netmask : " + color.end )
 			full_input_site = ("http://api.hackertarget.com/subnetcalc/?q=" + input_subnetlookup )
