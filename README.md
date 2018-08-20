@@ -9,7 +9,9 @@ sudo apt-get install python3
 # ✓ Usage :
 cd Desktop
 
-git clone
+git clone https://github.com/DjebbarAnon/Fatcat.git
+
+cd
 
 
 
