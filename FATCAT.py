@@ -204,7 +204,7 @@ def menu():
 	print( color.red + " .::[3]::. ==========================>" + color.end , color.green + " |GeoIP Lookup|")
 	print( color.red + " .::[4]::. ==========================>" + color.end , color.green + " |Subnet Lookup Online|")
 	print( color.red + " .::[5]::. ==========================>" + color.end , color.green + " |Traceroute|")
-	print( color.red + " .::[6]::. ==========================>" + color.end , color.green + " |Zone Transfer")
+	print( color.red + " .::[6]::. ==========================>" + color.end , color.green + " |Zone Transfe|")
 	print( color.red + " .::[7]::. ==========================>" + color.end , color.green + " |HTTP Headers|")
 	print( color.red + " .::[8]::. ==========================>" + color.end , color.green + " |Reverse IP|")
 	print( color.red + " .::[9]::. ==========================>" + color.end , color.green + " |Page Links|")
