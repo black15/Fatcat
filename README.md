@@ -25,8 +25,7 @@ If you are using android delete sudo :)
 # ✓ Screenshots : 
 ![screenshot at 2018-08-20 12-45-38](https://user-images.githubusercontent.com/39780283/44357916-0bc10f80-a479-11e8-8f21-c2a70c3ad97f.png)
 ![screenshot at 2018-08-20 12-49-31](https://user-images.githubusercontent.com/39780283/44357928-1c718580-a479-11e8-8235-bc62bc8365ad.png)
-![Uploading Screenshot at 2018-08-20 12-50-41.png…]()
-![Uploading Screenshot at 2018-08-20 12-54-11.png…]()
+
 
 
 
