@@ -66,6 +66,7 @@ class clear_up_colora :
 		else:
 			pass
 def internet_checker():
+	print('\33[8;24;80t')
 	clear_up_colora().clear_cls()
 	clear_up_colora().color_a()
 	try:
