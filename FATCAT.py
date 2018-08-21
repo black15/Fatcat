@@ -1074,7 +1074,7 @@ def main():
 			f12 = input( color.white + "[*] Do you wanna save your output as txt file ? Y/n : " + color.end )
 			if f12 == "Y" : 
 				f = open("Shared Dns Servers","w")
-				print(f.write(open_full_input_reverse_dns.text))
+				print(f.write(open_full_input_shared_dns_servers.text))
 				f.close()
 				print("\t")
 				print( color.red + "-"*80 + color.end )
@@ -1084,7 +1084,7 @@ def main():
 				contu_ex()
 			elif f12 == "y" : 
 				f = open("Shared Dns Servers","w")
-				print(f.write(open_full_input_reverse_dns.text))
+				print(f.write(open_full_input_shared_dns_servers.text))
 				f.close()
 				print("\t")
 				print( color.red + "-"*80 + color.end )
@@ -1094,7 +1094,7 @@ def main():
 				contu_ex()	
 			elif f12 == "Yes" : 
 				f = open("Shared Dns Servers","w")
-				print(f.write(open_full_input_reverse_dns.text))
+				print(f.write(open_full_input_shared_dns_servers.text))
 				f.close()
 				print("\t")
 				print( color.red + "-"*80 + color.end )
@@ -1104,7 +1104,7 @@ def main():
 				contu_ex()	
 			elif f12 == "yes" :
 				f = open("Shared Dns Servers","w")
-				print(f.write(open_full_input_reverse_dns.text))
+				print(f.write(open_full_input_shared_dns_servers.text))
 				f.close()
 				print("\t")
 				print( color.red + "-"*80 + color.end )
