@@ -11,13 +11,13 @@ If you don't have python3 download it by this commands :
 
 sudo apt-get install python3
 # ✓ Useage :
-sudo git clone https://github.com/DjebbarAnon/Fatcat.git
+git clone https://github.com/DjebbarAnon/Fatcat.git
 
 cd Fatcat
 
 chmod +x FATCAT.py
 
-sudo python3 FATCAT.py
+python3 FATCAT.py
 
 If you are using android delete sudo :)
 # ✓ Screenshots : 
