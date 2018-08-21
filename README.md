@@ -11,8 +11,6 @@ If you don't have python3 download it by this commands :
 
 sudo apt-get install python3
 # ✓ Useage :
-cd Desktop
-
 sudo git clone https://github.com/DjebbarAnon/Fatcat.git
 
 cd Fatcat
