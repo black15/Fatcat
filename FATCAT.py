@@ -1,6 +1,6 @@
 ##!usr/bin/python3
 #<|>Coded by DJebbarAnon
-#<|>Information ghatring tool (fatcat)
+#<|>Information gathering tool (fatcat)
 # ▄████  ██     ▄▄▄▄▀ ▄█▄    ██     ▄▄▄▄▀ 
 # █▀   ▀ █ █ ▀▀▀ █    █▀ ▀▄  █ █ ▀▀▀ █    
 # █▀▀    █▄▄█    █    █   ▀  █▄▄█    █      
@@ -22,7 +22,7 @@
 #
 #
 __author__ = "DjebbarAnon (bassem)"
-__email__  ="bassemdjebbar@gmail.com"
+__email__  ="bassemdjebbar91@gmail.com"
 #Imports
 import sys
 import os
