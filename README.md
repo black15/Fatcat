@@ -5,11 +5,16 @@
 # ✓ Fatcat
 FATCAT is a simple inforamtion ghatring tool created with python3
 # ✓ requirements :
-You only need python3 to run this script
+1 .You only need python3 to run this script
 
 If you don't have python3 download it by this commands :
 
 sudo apt-get install python3
+
+2 . requests
+
+pip install requests
+
 # ✓ Useage :
 git clone https://github.com/DjebbarAnon/Fatcat.git
 
