@@ -1,7 +1,4 @@
-[![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)]()
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue,Windows,Android.svg)]()
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
+
 # ✓ Fatcat
 FATCAT is a simple inforamtion ghatring tool created with python3
 # ✓ requirements :
